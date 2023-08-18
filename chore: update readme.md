@@ -1,0 +1,3 @@
+# nextjs-whatsapp-clone-starter
+Em andamento...
+Co-authored-by: Mayumicast <brena.freire.15@gmail.com>
